@@ -33,7 +33,8 @@ For our test, we **compare performance of Dask-CPU vs Dask-GPU**, in 3 main area
   
 ## Hardware configuration
 
-This experiment was run on a custom-build Desktop machine
+This experiment was run on a custom-build Desktop machine.  
+**We selected a GPU and CPU that were around the same price range.**  
 
 ### Relevant hardware (used in testing)  
   
