@@ -48,8 +48,8 @@ This experiment was run on a custom-build Desktop machine
 + Motherboard: ASUS ROG Zenith II Extreme Alpha TRX40 
 + RAM: 2x G.SKILL Trident Z Neo Series (2 x 32GB) (128GB total) @ 2666 MT/s
 + SSD: 3x Kingston FURY Renegade PCIe 4.0 NVMe M.2 SSD 2TB (6TB total) 
-+ GPU #0: ASUS ROG Strix GeForce RTX 3090 (PCIe 4.0) (NOT USED IN EXPERIMENT)
-+ GPU #1: ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC (PCIe 4.0) (NOT USED IN EXPERIMENT)
++ GPU #0: ASUS ROG Strix GeForce RTX 3090 (PCIe 4.0) (**NOT USED IN EXPERIMENT**)
++ GPU #1: ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC (PCIe 4.0) (**NOT USED IN EXPERIMENT**)
 + Cooling (CPU): CORSAIR iCUE H150i ELITE CAPELLIX Liquid CPU Cooler 
 + PSU: EVGA SuperNOVA 1600 P+, 80+ Platinum 1600W, Fully Modular 
 
