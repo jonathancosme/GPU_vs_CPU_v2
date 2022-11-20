@@ -1,0 +1,35 @@
+NumRows,Device,Task,Time (seconds)
+20000000,CPU,Read CSV (single file),10.8
+20000000,CPU,Read CSV (multiple file),10.8
+20000000,CPU,Write CSV (single file),76
+20000000,CPU,Write CSV (multiple file),18.7
+20000000,CPU,Describe dataframe,3.76
+20000000,CPU,Set index on dataframe,41.1
+20000000,CPU,Concat multiple dataframes,26.1
+20000000,CPU,Groupby aggregation (mean),37.4
+20000000,CPU,Fit label encoder,19.8
+20000000,CPU,Encode data,13.5
+20000000,CPU,Scale data,7.76
+20000000,CPU,split data,13.3
+20000000,CPU,PCA,14.8
+20000000,CPU,TruncatedSVD,14.8
+20000000,CPU,OLS Regression,5.17
+20000000,CPU,K-Means,24.1
+20000000,CPU,Gradient Boosting,4.4
+20000000,GPU,Read CSV (single file),6.29
+20000000,GPU,Read CSV (multiple file),5
+20000000,GPU,Write CSV (single file),3.38
+20000000,GPU,Write CSV (multiple file),3.37
+20000000,GPU,Describe dataframe,2.36
+20000000,GPU,Set index on dataframe,20.1
+20000000,GPU,Concat multiple dataframes,12.7
+20000000,GPU,Groupby aggregation (mean),11.5
+20000000,GPU,Fit label encoder,0.548
+20000000,GPU,Encode data,5.79
+20000000,GPU,Scale data,3.59
+20000000,GPU,split data,6.5
+20000000,GPU,PCA,2.84
+20000000,GPU,TruncatedSVD,2.03
+20000000,GPU,OLS Regression,0.76
+20000000,GPU,K-Means,1.19
+20000000,GPU,Gradient Boosting,0.8

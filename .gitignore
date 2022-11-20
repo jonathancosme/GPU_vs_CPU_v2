@@ -1,0 +1,10 @@
+# ignore
+sample_data/**/*
+output_data/**/*
+dask-worker-space/**/*
+.ipynb_checkpoints/**/*
+
+# exceptions
+!sample_data/results.csv
+!sample_data/.gitkeep
+!output_data/.gitkeep
