@@ -149,7 +149,8 @@ conda activate gvc-2
 ~~~  
   
 5. Set environment variable for GPU to use in experiment.  
-In my case, I wanted to use the GPU in PCI slot #2, so I ran CUDA_VISIBLE_DEVICES=2. Set CUDA_VISIBLE_DEVICES={PCI slot # you want to use}.  
+In my case, I wanted to use the GPU in PCI slot #2, so I ran CUDA_VISIBLE_DEVICES=2.  
+Set CUDA_VISIBLE_DEVICES={PCI slot # you want to use}.  
 **If you only have ONE GPU on your machine, you can skip this step**.
 ~~~bash
 export CUDA_DEVICE_ORDER=PCI_BUS_ID && export CUDA_VISIBLE_DEVICES=2
