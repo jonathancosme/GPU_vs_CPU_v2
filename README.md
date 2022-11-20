@@ -30,7 +30,7 @@ For our test, we **compare performance of Dask-CPU vs Dask-GPU**, in 3 main area
 + ML model training
 	+ CPU: we use scikit-learn combined with joblib + Dask CPU cluster backend
 	+ GPU: we use cuML combined with Dask GPU cluster backend
-
+  
 ## Hardware configuration
 
 This experiment was run on a custom-build Desktop machine
@@ -59,6 +59,8 @@ This experiment was run on a custom-build Desktop machine
 + 'gvc-2' conda environment. All libraries installed can be found in the [gvc-2.yaml](gvc-2.yaml) file.
 
 ## Procedures tested
+
+**Note:** The selection of dimensionality reduction and machine learning procedures was based on what procedures were available to ALL of the libraries used (Dask, scikit-learn, and cuML).  
 
 ### ETL
   
