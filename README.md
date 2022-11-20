@@ -36,9 +36,9 @@ This experiment was run on a custom-build Desktop machine, running [Linux Mint 2
 ### relevant hardware (used in testing)  
 (hardware name link directs to newegg.com; date linke directs to screenshot of hardware price)
   
-+ CPU: [**AMD Ryzen Threadripper 3960X Processor**](https://www.newegg.com/amd-ryzen-threadripper-3960x/p/N82E16819113619) 24-cores (48-threads) @  3.8GHz) | $1,399.99 (![Nov 20, 2022](./images/cpu.png))
-+ GPU #2: [**ZOTAC GAMING GeForce RTX 3090 Trinity OC**](https://www.newegg.com/zotac-geforce-rtx-3090-zt-a30900j-10p/p/N82E16814500510?Item=9SIA6V6J5G9353&Description=rtx%203090&cm_re=rtx_3090-_-14-500-510-_-Product&quicklink=true) (PCIe 4.0) | $1,249.99 (![Nov 20, 2022](./images/gpu.png))
-+ RAM: 2x [**G.SKILL Trident Z Neo Series (2 x 32GB)**](https://www.newegg.com/g-skill-64gb-288-pin-ddr4-sdram/p/N82E16820374132?Item=N82E16820374132) (128GB total) @ 2666 MT/s | $579.98 ($289.99 each) (![Nov 20, 2022](./images/ram.png))
++ CPU: [**AMD Ryzen Threadripper 3960X Processor**](https://www.newegg.com/amd-ryzen-threadripper-3960x/p/N82E16819113619) 24-cores (48-threads) @  3.8GHz) | $1,399.99 ([Nov 20, 2022](./images/cpu.png))
++ GPU #2: [**ZOTAC GAMING GeForce RTX 3090 Trinity OC**](https://www.newegg.com/zotac-geforce-rtx-3090-zt-a30900j-10p/p/N82E16814500510?Item=9SIA6V6J5G9353&Description=rtx%203090&cm_re=rtx_3090-_-14-500-510-_-Product&quicklink=true) (PCIe 4.0) | $1,249.99 ([Nov 20, 2022](./images/gpu.png))
++ RAM: 2x [**G.SKILL Trident Z Neo Series (2 x 32GB)**](https://www.newegg.com/g-skill-64gb-288-pin-ddr4-sdram/p/N82E16820374132?Item=N82E16820374132) (128GB total) @ 2666 MT/s | $579.98 ($289.99 each) ([Nov 20, 2022](./images/ram.png))
   
 ### other hardware
 
