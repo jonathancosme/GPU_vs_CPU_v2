@@ -95,7 +95,7 @@ This experiment was run on a custom-build Desktop machine.
 ### Summary  
   
 * For **ETL**, we see more than **70% reduction in time**
-* For **Dimenstionality Reduction**, we see a more than **83% reduction in time**
+* For **Dimensionality Reduction**, we see a more than **83% reduction in time**
 * For **Machine Learning**, we see a more than **91% reduction in time**
 * **End-to-end**, we see a more than **74% reduction in time**    
 
@@ -105,7 +105,7 @@ This experiment was run on a custom-build Desktop machine.
 
 ### Individual Task Figures
 
-#### ETL
+#### ETL (12 total)
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -115,13 +115,13 @@ This experiment was run on a custom-build Desktop machine.
 <img width="1604" src="plots/Groupby_aggregation_(mean).png">|<img width="1604" src="plots/Fit_label_encoder.png">|<img width="1604" src="plots/Encode_data.png">|  
 <img width="1604" src="plots/Scale_data.png">|<img width="1604" src="plots/split_data.png">|
 
-#### Dimenstionality Reduction
+#### Dimensionality Reduction (2 total)
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" src="plots/PCA.png">|<img width="1604" src="plots/TruncatedSVD.png">|
 
-#### Machine Learning
+#### Machine Learning (3 total)
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
